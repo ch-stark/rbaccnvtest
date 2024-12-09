@@ -29,4 +29,4 @@ policySets:
   - description: Will deploy on hub
     name: openshift-hub
     placement:
-      placementPath: input/hub-placement.yaml
+      placementPath: input/hubplacement.yaml
